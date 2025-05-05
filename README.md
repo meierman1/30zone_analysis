@@ -23,3 +23,8 @@ source venv/bin/activate  # or venv\\Scripts\\activate on Windows
 pip install -r requirements.txt
 ```
 Rund the scriply by executing the main file: `python main.py`
+
+
+## Provided Data
+
+The data contained in the repository are recordings from bus rides in Schinznach-Dorf, Switzerland. They were recorded ahead of a public vote on the introduction of a 30 kph zone that affects the local commuter bus.
