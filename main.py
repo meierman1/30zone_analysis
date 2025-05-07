@@ -9,11 +9,14 @@ import numpy as np
 
 # Configurable parameters
 DATA_FOLDER = 'data'
+
+# Boundaries to crop gpx track
 LAT_MIN = 47.447030
 LAT_MAX = 47.451898
 LON_MIN = 8.141421
 LON_MAX = 8.146656
-VMAX_KPH = 30  # Geschwindigkeit in km/h
+
+VMAX_KPH = 30  # Max. Speed in km/h
 PLOT_ENABLED = True
 
 excess_delays = []
