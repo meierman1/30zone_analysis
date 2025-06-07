@@ -22,7 +22,7 @@ python -m venv venv
 source venv/bin/activate  # or venv\\Scripts\\activate on Windows
 pip install -r requirements.txt
 ```
-Rund the scriply by executing the main file: `python main.py`
+Rund the script by executing the main file: `python main.py`
 
 
 ## Provided Data
